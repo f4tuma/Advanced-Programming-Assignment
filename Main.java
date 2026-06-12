@@ -1,3 +1,6 @@
+// Name: Fatuma Bobba
+// Reg No: SCT212-0072/2024
+
 // QUESTION 4 - Client Testing Code
 
 public class Main {
